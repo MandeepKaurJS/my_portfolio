@@ -71,6 +71,10 @@ h1::after{
  svg{
    border-radius: 5px;
  }
+ .md-form label {
+  color: #fff;
+  text-align:left;
+}
 
 
 
